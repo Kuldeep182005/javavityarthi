@@ -147,6 +147,8 @@ The application implements a manual linear regression algorithm:
 - Dark mode theme
 
 ## Author
+Kuldeep Patel
+24BSA10278
 
 University Project - Smart Expense Tracker
 
